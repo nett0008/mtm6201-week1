@@ -1,0 +1,44 @@
+
+*{
+   
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(242, 244, 245);
+    font-size:20px;
+}
+.wrapper{
+    padding-top: 10px;
+    background-color: rgb(42, 117, 117);
+    margin-left: 10%;;
+    margin-right: 8%;
+    padding: 20px;
+ 
+}
+
+h1{
+    background-color: #5e0e0e;
+    padding-left: 20px;
+  
+    
+    color: white;
+}
+#sam-image{
+    max-width: 150px;
+    float: left;
+    
+    height: auto;
+    padding-right: 40px;
+    padding-bottom: 30px;
+}
+
+.list{
+    background-color:#5e0e0e;
+    
+    padding: 15px;
+
+}
+dd{
+    margin-left: 0px;
+}
+dt{
+    font-size: 1.15rem;
+}
